@@ -39,7 +39,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/voxa.git
+git clone https://github.com/JKeshav9io/Voxa-Chatbot.git
 cd voxa
 
 # Install dependencies
@@ -122,13 +122,11 @@ lib/
 
 * 🔥 [Flutter](https://flutter.dev/)
 * 📚 [Firebase Docs](https://firebase.google.com/)
-* 🌐 [Backend Repo](https://github.com/yourusername/voxa-backend) *(Flask API)*
+* 🌐 [Backend Repo](https://github.com/JKeshav9io/Chatbot_Backend) *(Flask API)*
 * 🎥 Demo: [Demo Video YouTube](https://youtu.be/-KRv7ohp9BU)
 
 ---
 
 > 🧠 Voxa – Where AI meets emotional intelligence.
-
-```
 
 ---
