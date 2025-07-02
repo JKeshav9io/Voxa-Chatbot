@@ -1,13 +1,3 @@
-Absolutely! Here's your **clean, minimal `README.md`** for the **Voxa** frontend project, with the following sections **removed** as requested:
-
-* ❌ FAQ
-* ❌ License
-* ❌ Contribution Guide
-* ❌ Firebase Auth Setup section
-
----
-
-````markdown
 # 🧠 Voxa – AI-Powered Emotional Chat Assistant
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.8-blue?logo=flutter)
